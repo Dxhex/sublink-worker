@@ -11,7 +11,7 @@ export const APP_KEYWORDS = 'clash, singbox, surge, subscription, converter, sub
 // Subtitles for different languages
 export const APP_SUBTITLE = {
     'zh-CN': '高效聚合与管理您的代理节点',
-    'en-US': 'Efficiently Aggregate and Manage Your Proxy Nodes',
+    'en-US': 'FREEDOM',
     'fa': 'تجمیع و مدیریت کارآمد نودهای پروکسی شما',
     'ru': 'Эффективная агрегация и управление вашими прокси-узлами'
 };
